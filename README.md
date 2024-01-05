@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rayama01
-- 👀 I’m interested in Music, Programing, Reading, and Health and Medicine.
+- 👀 I’m interested in Music, Health and medicine, Reading, Programming.
 - 🌱 I’m currently learning JavaScript
 - 🎁 I'm slowing down with Programing to focus on a potential career in Healthcare.
 
